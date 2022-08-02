@@ -7,7 +7,7 @@ import { Item } from './types/Item'
 const App = () => {
 const[list, setList] = useState<Item[]>([
   { id: 1 , name: 'Comprar Pão' , done: true},
-  { id: 2 , name: 'Comprar Pão doce' , done: false}
+  { id: 2 , name: 'Colocar Comida Pro Coelho' , done: false}
 ]);
 
 const HandleAdd = (taskName: string) => {
