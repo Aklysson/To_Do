@@ -30,5 +30,7 @@ color: #fff;
 text-align: center;
 border-bottom: 1px solid #444;
 padding-bottom: 20px;
+font-size: 20px;
+font-weight: 600;
 
 `
